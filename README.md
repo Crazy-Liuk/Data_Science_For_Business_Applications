@@ -4,7 +4,7 @@ Course focused on different aspect and methods related to machine learning and D
 
 ## Mandatory Assignment 1: supervised and unsupervised Machine Learning
 
-
+dslkjsdklfj 
 
 ## Mandatory Assignment 2: Network Analysis and Natural-Language-Processing(NLP)
 
