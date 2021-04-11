@@ -6,7 +6,7 @@ Course focused on different aspect and methods related to machine learning and D
 
 Mandatory assignment for the first module of the course. This module provided a condensed introduction to the “Data Science Pipeline”, introducing students to methods, techniques, and workflows in applied data analytics and machine learning, including data acquisition, preparation, analysis, visualization, and communication.
 
-- [Requirements](https://github.com/Crazy-Liuk/Data_Science_For_Business_Applications/blob/main/M1/DSBA_2020_M1_assignment.pdf)
+- [Requirements](https://github.com/Crazy-Liuk/Data_Science_For_Business_Applications/blob/main/documents/DSBA_2020_M1_assignment.pdf)
 - [Solution](https://htmlpreview.github.io/?https://github.com/Crazy-Liuk/Data_Science_For_Business_Applications/blob/main/documents/Mandatory_Assignment_1.html)
 
 ## Mandatory Assignment 2: Network Analysis and Natural-Language-Processing(NLP)
