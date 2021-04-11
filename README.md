@@ -13,6 +13,9 @@ Mandatory assignment for the first module of the course. This module provided a 
 
 Mandatory assignment for the second module of the course. Focus on analyzing a variety of unstructured data sources. Particularly, students learned how to explore, analyze, and visualize natural language (text) as well as relational (network) data.
 
+- [Requirements](https://github.com/Crazy-Liuk/Data_Science_For_Business_Applications/blob/main/documents/DSBA_2020_M2_assignment.pdf)
+- [Solution](https://htmlpreview.github.io/?https://github.com/Crazy-Liuk/Data_Science_For_Business_Applications/blob/main/documents/Mandatory_Assignment_2.html)
+
 Requirements
 Solution
 
